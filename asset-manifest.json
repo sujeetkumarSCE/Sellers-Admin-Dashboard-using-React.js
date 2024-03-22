@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sellers-Admin-Dashboard-using-React.js/static/css/main.35f99970.css",
+    "main.js": "/Sellers-Admin-Dashboard-using-React.js/static/js/main.cbd41865.js",
+    "static/js/453.a90fece8.chunk.js": "/Sellers-Admin-Dashboard-using-React.js/static/js/453.a90fece8.chunk.js",
+    "index.html": "/Sellers-Admin-Dashboard-using-React.js/index.html",
+    "main.35f99970.css.map": "/Sellers-Admin-Dashboard-using-React.js/static/css/main.35f99970.css.map",
+    "main.cbd41865.js.map": "/Sellers-Admin-Dashboard-using-React.js/static/js/main.cbd41865.js.map",
+    "453.a90fece8.chunk.js.map": "/Sellers-Admin-Dashboard-using-React.js/static/js/453.a90fece8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f99970.css",
+    "static/js/main.cbd41865.js"
+  ]
+}
